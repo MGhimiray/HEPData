@@ -1,0 +1,170 @@
+dependent_variables:
+- header:
+    name: Data
+    units: Events/GeV
+  values:
+  - errors:
+    - label: stat
+      symerror: 12.9
+    value: 167.0
+  - errors:
+    - label: stat
+      symerror: 10.4
+    value: 108.0
+  - errors:
+    - label: stat
+      symerror: 8.7
+    value: 76.0
+  - errors:
+    - label: stat
+      symerror: 7.4
+    value: 55.0
+  - errors:
+    - label: stat
+      symerror: 8.1
+    value: 66.0
+  - errors:
+    - label: stat
+      symerror: 5.1
+    value: 26.0
+  - errors:
+    - label: stat
+      symerror: 4.7
+    value: 22.0
+  - errors:
+    - label: stat
+      symerror: 5.2
+    value: 27.0
+- header:
+    name: Total prediction
+    units: Events/GeV
+  values:
+  - errors:
+    - label: total
+      symerror: 9.6
+    value: 164.2
+  - errors:
+    - label: total
+      symerror: 5.8
+    value: 113.8
+  - errors:
+    - label: total
+      symerror: 4.0
+    value: 74.9
+  - errors:
+    - label: total
+      symerror: 2.9
+    value: 50.0
+  - errors:
+    - label: total
+      symerror: 3.2
+    value: 56.6
+  - errors:
+    - label: total
+      symerror: 2.3
+    value: 31.2
+  - errors:
+    - label: total
+      symerror: 1.9
+    value: 22.4
+  - errors:
+    - label: total
+      symerror: 3.3
+    value: 28.3
+- header:
+    name: Nonprompt
+    units: Events/GeV
+  values:
+  - value: 18.6
+  - value: 8.0
+  - value: 5.0
+  - value: 4.7
+  - value: 4.7
+  - value: 1.7
+  - value: 1.1
+  - value: 2.1
+- header:
+    name: VVV
+    units: Events/GeV
+  values:
+  - value: 4.2
+  - value: 2.6
+  - value: 1.6
+  - value: 1.1
+  - value: 0.9
+  - value: 0.5
+  - value: 0.3
+  - value: 0.2
+- header:
+    name: tVx
+    units: Events/GeV
+  values:
+  - value: 14.0
+  - value: 10.3
+  - value: 6.3
+  - value: 3.9
+  - value: 4.6
+  - value: 2.1
+  - value: 1.6
+  - value: 1.2
+- header:
+    name: "V\u03B3"
+    units: Events/GeV
+  values:
+  - value: 1.5
+  - value: 0.9
+  - value: 0.7
+  - value: 0.3
+  - value: 0.4
+  - value: 0.1
+  - value: 0.2
+  - value: 0.1
+- header:
+    name: EW WZ
+    units: Events/GeV
+  values:
+  - value: 18.4
+  - value: 18.4
+  - value: 17.1
+  - value: 14.2
+  - value: 19.5
+  - value: 13.7
+  - value: 11.5
+  - value: 18.3
+- header:
+    name: QCD WZ
+    units: Events/GeV
+  values:
+  - value: 101.8
+  - value: 69.8
+  - value: 41.7
+  - value: 24.2
+  - value: 24.4
+  - value: 12.0
+  - value: 6.9
+  - value: 5.3
+- header:
+    name: ZZ
+    units: Events/GeV
+  values:
+  - value: 5.8
+  - value: 3.7
+  - value: 2.5
+  - value: 1.7
+  - value: 2.1
+  - value: 1.1
+  - value: 0.8
+  - value: 1.0
+independent_variables:
+- header:
+    name: $m_{jj}$
+    units: GeV
+  values:
+  - value: 600.0
+  - value: 800.0
+  - value: 1000.0
+  - value: 1200.0
+  - value: 1475.0
+  - value: 1825.0
+  - value: 2225.0
+  - value: 2675.0

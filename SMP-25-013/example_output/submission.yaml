@@ -1,0 +1,247 @@
+---
+additional_resources:
+- description: Created with hepdata_lib 0.20.0
+  location: https://doi.org/10.5281/zenodo.1217998
+- description: Webpage with all figures and tables
+  location: https://cds.cern.ch/record/2957045?ln=en
+comment: 'The production cross sections of $W^{\pm}W^{\pm}$ and WZ boson pairs in
+  association with two jets in proton-proton collisions are measured at $\sqrt{s}=13.6$
+  TeV. The data sample corresponds to an integrated luminosity of 171 fb$^{-1}$, collected
+  with the CMS detector during 2022--2024. The measurements are performed in the leptonic
+  decay modes: $W^{\pm}Z \to \ell^\pm\nu\ell''^\pm\ell''^\mp$ and $W^{\pm}W^{\pm}
+  \to \ell^{\pm} \nu \ell''^{\pm}\nu$, where $\ell, \ell'' = e $ or $ \mu$. The electroweak
+  productions of $W^{\pm}W^{\pm}$ and WZ  bosons are each observed with a significance
+  greater than five standard deviations from the background-only hypothesis. Differential
+  fiducial cross sections as functions of several observables are also measured.'
+data_license:
+  description: CC0 enables reusers to distribute, remix, adapt, and build upon the
+    material in any medium or format, with no conditions.
+  name: CC0
+  url: https://creativecommons.org/publicdomain/zero/1.0/
+---
+data_file: table_3.yaml
+description: Systematic uncertainties in the signal strength $\mu$, defined as the
+  measured inclusive EW cross sections divided by the predicted cross sections. Lepton
+  experimental uncertainties encompass the effects of the calibration of lepton momentum
+  scale and resolution, as well as lepton trigger, reconstruction, identification,
+  and isolation efficiencies. Jet experimental uncertainties encompass the effects
+  of JES and JER. The limited sample size refers to the finite number of MC and data
+  events used to estimate the backgrounds.
+keywords:
+- name: observables
+  values:
+  - relative uncertainty
+location: Data from Table 3
+name: Table 3
+---
+data_file: figure_3a.yaml
+description: Distribution of $m_{jj}$ in the signal $W^{\pm}W^{\pm}$ region.
+keywords:
+- name: observables
+  values:
+  - $m_{jj}$
+location: Data from Figure 3a
+name: Figure 3a
+---
+data_file: figure_3b.yaml
+description: Distribution of $m_{\ell \ell}$ in the signal $W^{\pm}W^{\pm}$ region.
+keywords:
+- name: observables
+  values:
+  - $m_{\ell \ell}$
+location: Data from Figure 3b
+name: Figure 3b
+---
+data_file: figure_3c.yaml
+description: Distribution of $\Delta \eta_{jj}$ in the signal $W^{\pm}W^{\pm}$ region.
+keywords:
+- name: observables
+  values:
+  - $\Delta \eta_{jj}$
+location: Data from Figure 3c
+name: Figure 3c
+---
+data_file: figure_3d.yaml
+description: Distribution of $\Delta \phi_{jj}$ in the signal $W^{\pm}W^{\pm}$ region.
+keywords:
+- name: observables
+  values:
+  - $\Delta \phi_{jj}$
+location: Data from Figure 3d
+name: Figure 3d
+---
+data_file: figure_3e.yaml
+description: Distribution of $n_j$ in the signal $W^{\pm}W^{\pm}$ region.
+keywords:
+- name: observables
+  values:
+  - $n_j$
+location: Data from Figure 3e
+name: Figure 3e
+---
+data_file: figure_4a.yaml
+description: Distribution of BDT output in the signal WZ region.
+keywords:
+- name: observables
+  values:
+  - BDT output
+location: Data from Figure 4a
+name: Figure 4a
+---
+data_file: figure_4b.yaml
+description: Distribution of $m_{jj}$ in the signal WZ region.
+keywords:
+- name: observables
+  values:
+  - $m_{jj}$
+location: Data from Figure 4b
+name: Figure 4b
+---
+data_file: figure_5a.yaml
+description: Measured and predicted absolute $\mathrm{EW}~\mathrm{W}^{\pm} \mathrm{W}^{\pm}$
+  cross sections in bins of $m_{jj}$
+keywords:
+- name: observables
+  values:
+  - $m_{jj}$
+location: Data from Figure 5a
+name: Figure 5a
+---
+data_file: figure_5b.yaml
+description: Measured and predicted absolute $\mathrm{EW}~\mathrm{W}^{\pm} \mathrm{W}^{\pm}$
+  cross sections in bins of $m_{\ell \ell}$
+keywords:
+- name: observables
+  values:
+  - $m_{\ell \ell}$
+location: Data from Figure 5b
+name: Figure 5b
+---
+data_file: figure_5c.yaml
+description: Measured and predicted absolute $\mathrm{EW}~\mathrm{W}^{\pm} \mathrm{W}^{\pm}$
+  cross sections in bins of $\Delta \eta _{jj}$
+keywords:
+- name: observables
+  values:
+  - $\Delta \eta _{jj}$
+location: Data from Figure 5c
+name: Figure 5c
+---
+data_file: figure_5d.yaml
+description: Measured and predicted absolute $\mathrm{EW}~\mathrm{W}^{\pm} \mathrm{W}^{\pm}$
+  cross sections in bins of $\Delta \phi _{jj}$
+keywords:
+- name: observables
+  values:
+  - $\Delta \phi _{jj}$
+location: Data from Figure 5d
+name: Figure 5d
+---
+data_file: figure_5e.yaml
+description: Measured and predicted absolute $\mathrm{EW}~\mathrm{W}^{\pm} \mathrm{W}^{\pm}$
+  cross sections in bins of $n_j$
+keywords:
+- name: observables
+  values:
+  - $n_j$
+location: Data from Figure 5e
+name: Figure 5e
+---
+data_file: figure_6a.yaml
+description: Measured and predicted normalized $\mathrm{EW}~\mathrm{W}^{\pm} \mathrm{W}^{\pm}$
+  cross sections in bins of $m_{jj}$
+keywords:
+- name: observables
+  values:
+  - $m_{jj}$
+location: Data from Figure 6a
+name: Figure 6a
+---
+data_file: figure_6b.yaml
+description: Measured and predicted normalized $\mathrm{EW}~\mathrm{W}^{\pm} \mathrm{W}^{\pm}$
+  cross sections in bins of $m_{\ell \ell}$
+keywords:
+- name: observables
+  values:
+  - $m_{\ell \ell}$
+location: Data from Figure 6b
+name: Figure 6b
+---
+data_file: figure_6c.yaml
+description: Measured and predicted normalized $\mathrm{EW}~\mathrm{W}^{\pm} \mathrm{W}^{\pm}$
+  cross sections in bins of $\Delta \eta _{jj}$
+keywords:
+- name: observables
+  values:
+  - $\Delta \eta _{jj}$
+location: Data from Figure 6c
+name: Figure 6c
+---
+data_file: figure_6d.yaml
+description: Measured and predicted normalized $\mathrm{EW}~\mathrm{W}^{\pm} \mathrm{W}^{\pm}$
+  cross sections in bins of $\Delta \phi _{jj}$
+keywords:
+- name: observables
+  values:
+  - $\Delta \phi _{jj}$
+location: Data from Figure 6d
+name: Figure 6d
+---
+data_file: figure_6e.yaml
+description: Measured and predicted normalized $\mathrm{EW}~\mathrm{W}^{\pm} \mathrm{W}^{\pm}$
+  cross sections in bins of $n_j$
+keywords:
+- name: observables
+  values:
+  - $n_j$
+location: Data from Figure 6e
+name: Figure 6e
+---
+data_file: figure_7a.yaml
+description: Measured and predicted absolute $\mathrm{EW}~\mathrm{W}^{\pm} \mathrm{Z}$
+  cross sections in bins of $m_{jj}$
+keywords:
+- name: observables
+  values:
+  - $m_{jj}$
+location: Data from Figure 7a
+name: Figure 7a
+---
+data_file: figure_7b.yaml
+description: Measured and predicted normalized $\mathrm{EW}~\mathrm{W}^{\pm} \mathrm{Z}$
+  cross sections in bins of $m_{jj}$
+keywords:
+- name: observables
+  values:
+  - $m_{jj}$
+location: Data from Figure 7b
+name: Figure 7b
+---
+data_file: table_4.yaml
+description: Expected yields from SM processes and observed data events in the $W^{\pm}W^{\pm}$
+  signal region, nonprompt lepton control region, WZ signal region, and tZq control
+  region. The quoted uncertainties are the combination of statistical and systematic
+  contributions. The expected yields correspond to the best-fit normalizations from
+  the simultaneous fit to data.
+keywords:
+- name: observables
+  values:
+  - event yield
+location: Data from Table 4
+name: Table 4
+---
+data_file: table_6.yaml
+description: Measured fiducial cross sections times branching fraction ($\sigma\mathcal{B}$)
+  and theory predictions for EW and EW+QCD $W^{\pm}W^{\pm}$ and WZ production.
+keywords:
+- name: observables
+  values:
+  - $\sigma\mathcal{B}$
+- name: phrases
+  values:
+  - fiducial cross section
+  - VBS
+  - W+W+
+  - WZ
+location: Data from Table 6
+name: Table 6

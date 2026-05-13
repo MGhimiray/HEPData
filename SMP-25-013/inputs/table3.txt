@@ -1,0 +1,10 @@
+Source Uncertainty|EW WW|EW WZ
+Integrated-luminosity|0.013|0.013
+Lepton-experimental|0.016|0.030
+Jet-experimental|0.023|0.061
+B-tagging|0.016|0.004
+Nonprompt-background|0.008|0.006
+Limited-sample-size|0.033|0.034
+Theory|0.016|0.038
+Statistical|0.095|0.188
+Total|0.107|0.204

@@ -1,0 +1,114 @@
+dependent_variables:
+- header:
+    name: Data
+    units: 1/bin
+  values:
+  - errors:
+    - label: stat
+      symerror: 0.136
+    value: 0.337
+  - errors:
+    - label: stat
+      symerror: 0.104
+    value: 0.2
+  - errors:
+    - label: stat
+      symerror: 0.091
+    value: 0.273
+  - errors:
+    - label: stat
+      symerror: 0.062
+    value: 0.19
+- header:
+    name: MG5_aMC@NLO + Py8 (no NLO corr.)
+    units: 1/bin
+  values:
+  - errors:
+    - label: stat
+      symerror: 0.003
+    - label: syst
+      symerror: 0.012
+    value: 0.287
+  - errors:
+    - label: stat
+      symerror: 0.003
+    - label: syst
+      symerror: 0.004
+    value: 0.241
+  - errors:
+    - label: stat
+      symerror: 0.003
+    - label: syst
+      symerror: 0.003
+    value: 0.256
+  - errors:
+    - label: stat
+      symerror: 0.003
+    - label: syst
+      symerror: 0.012
+    value: 0.216
+- header:
+    name: MG5_aMC@NLO + Py8 (NLO corr.)
+    units: 1/bin
+  values:
+  - errors:
+    - label: stat
+      symerror: 0.004
+    - label: syst
+      symerror: 0.012
+    value: 0.31
+  - errors:
+    - label: stat
+      symerror: 0.003
+    - label: syst
+      symerror: 0.003
+    value: 0.238
+  - errors:
+    - label: stat
+      symerror: 0.003
+    - label: syst
+      symerror: 0.003
+    value: 0.246
+  - errors:
+    - label: stat
+      symerror: 0.003
+    - label: syst
+      symerror: 0.012
+    value: 0.205
+- header:
+    name: Sherpa 2
+    units: 1/bin
+  values:
+  - errors:
+    - label: stat
+      symerror: 0.003
+    - label: syst
+      symerror: 0.009
+    value: 0.305
+  - errors:
+    - label: stat
+      symerror: 0.003
+    - label: syst
+      symerror: 0.003
+    value: 0.248
+  - errors:
+    - label: stat
+      symerror: 0.003
+    - label: syst
+      symerror: 0.003
+    value: 0.255
+  - errors:
+    - label: stat
+      symerror: 0.003
+    - label: syst
+      symerror: 0.009
+    value: 0.191
+independent_variables:
+- header:
+    name: $m_{jj}$
+    units: GeV
+  values:
+  - value: 700.0
+  - value: 1100.0
+  - value: 1600.0
+  - value: 2200.0
